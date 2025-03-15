@@ -23,3 +23,4 @@ This is my GitHub profile
 ### 📈 GitHub Stats  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaopedronb21&show_icons=true&theme=dracula)](https://github.com/Joaopedronb21)
+[![GitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedronb21&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave)](https://github.com/Joaopedronb21)
